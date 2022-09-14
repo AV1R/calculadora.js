@@ -7,7 +7,6 @@ body {
 }
 
 input[type="button"] {
-    color:black !important;
     margin: auto;
     font-size: 50px;
     width: 100%;
@@ -24,7 +23,7 @@ margin:auto!important;
 
 input[type="button"]:hover {
     background: rgb(223, 223, 223);
-    color:white !important;
+      color: white !important;
     
 }
 
