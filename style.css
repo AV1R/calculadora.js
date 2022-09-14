@@ -24,6 +24,8 @@ margin:auto!important;
 
 input[type="button"]:hover {
     background: rgb(223, 223, 223);
+    color:white !important;
+    
 }
 
 #res {
