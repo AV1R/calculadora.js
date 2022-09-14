@@ -2,7 +2,7 @@ body {
     text-align: center !important;
     font-weight: bolder !important;
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
-    overflow: hidden !important;
+    overflow-x: hidden !important;
     margin: auto !important;
 }
 
