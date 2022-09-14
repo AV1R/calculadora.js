@@ -18,6 +18,10 @@ input[type="button"] {
     box-shadow: 14px 14px 27px #d9d9d9, -14px -14px 27px #ffffff;
 }
 
+.calculadora{
+margin:auto!important;
+}
+
 input[type="button"]:hover {
     background: rgb(223, 223, 223);
 }
